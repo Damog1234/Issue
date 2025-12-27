@@ -1,0 +1,7 @@
+{
+  "functions": {
+    "pages/api/stats.js": {
+      "maxDuration": 60
+    }
+  }
+}
